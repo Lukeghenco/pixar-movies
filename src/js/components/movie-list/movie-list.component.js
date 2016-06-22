@@ -36,7 +36,7 @@ function MovieListController($http) {
 }
 
 app.component('movieList', {
-  templateUrl: "/src/js/movie-list.component.html",
+  templateUrl: "/src/js/components/movie-list/movie-list.component.html",
   controller: MovieListController
 });
 

@@ -16,7 +16,7 @@ function MovieRatingController() {
 }
 
 app.component('movieRating', {
-  templateUrl: "/src/js/movie-rating.component.html",
+  templateUrl: "/src/js/components/movie-rating/movie-rating.component.html",
   bindings: {
     value: "<" // input
   },
