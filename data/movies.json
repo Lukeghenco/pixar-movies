@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Bugs Life",
+    "rating": 5,
+    "length": 120
+  },
+  {
+    "id": 2,
+    "title": "Toy Story",
+    "rating": 4,
+    "length": 90
+  },
+  {
+    "id": 3,
+    "title": "Toy Story 2",
+    "rating": 4,
+    "length": 125
+  },
+  {
+    "id": 4,
+    "title": "Toy Story 3",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 5,
+    "title": "Cars",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 6,
+    "title": "Cars 2",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 7,
+    "title": "Finding Nemo",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 8,
+    "title": "Finding Dory",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 9,
+    "title": "Brave",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 10,
+    "title": "Inside Out",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 11,
+    "title": "The Good Dinosaur",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 12,
+    "title": "Up",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 13,
+    "title": "Monsters Inc.",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 14,
+    "title": "Monsters University",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 15,
+    "title": "The Incredibles",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 16,
+    "title": "Ratitoule",
+    "rating": 5,
+    "length": 180
+  },
+  {
+    "id": 17,
+    "title": "Wall-e",
+    "rating": 5,
+    "length": 180
+  }
+]
