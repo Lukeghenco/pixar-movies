@@ -20,7 +20,7 @@ function MovieRatingController() {
   };
 
   ctrl.$onChanges = function() {
-    ctrl.entries = new Array(ctrl.max);
+    ctrl.entries = buildEntries(ctrl.value, ctrl.max);
   };
 }
 
@@ -28,7 +28,8 @@ app.component('movieRating', {
   templateUrl: "/src/js/components/movie-rating/movie-rating.component.html",
   bindings: {
     value: "<", //  "<" == input
-    max: "<"
+    max: "<",
+    setRating: "&" // "&" == Event passes info to the parent component
   },
   controller: MovieRatingController
 });

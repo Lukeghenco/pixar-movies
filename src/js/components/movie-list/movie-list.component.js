@@ -25,17 +25,23 @@ function MovieListController($http) {
     ctrl.$router.navigate(["Details", { id: id }, "Overview"]);
   };
 
+  ctrl.setRating = function(movie, newRatingValue) {
+    movie.rating = newRatingValue;
+  };
+
   ctrl.upRating = function(movie) {
-    if(movie.rating < 5) {
+    if (movie.rating < 5) {
       movie.rating += 1;
     }
   };
 
   ctrl.downRating = function(movie) {
-    if(movie.rating > 1) {
+    if (movie.rating > 1) {
       movie.rating -= 1;
     }
   };
+
+
 
 }
 

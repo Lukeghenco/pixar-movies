@@ -10,7 +10,10 @@
       <td>{{movie.title}}</td>
       <td>{{movie.length}}</td>
       <td>
-        <movie-rating value="movie.rating" max="5">
+        <movie-rating
+          value="movie.rating"
+          max="5"
+          set-rating="$ctrl.setRating(movie, value)">
         </movie-rating>
       </td>
       <td>
