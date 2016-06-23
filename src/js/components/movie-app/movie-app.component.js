@@ -1,5 +1,4 @@
-
-"use strict";
+'use strict';
 
 app.component("movieApp", {
   templateUrl: "/src/js/components/movie-app/movie-app.component.html",

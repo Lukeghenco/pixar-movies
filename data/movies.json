@@ -3,7 +3,80 @@
     "id": 1,
     "title": "Bugs Life",
     "rating": 5,
-    "length": 99
+    "length": 95,
+    "cast": [
+      {
+        "actor": "Dave Foley",
+        "voice": "Flik",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BOTE5MjgyODYxNV5BMl5BanBnXkFtZTcwMzQxNTU3MQ@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Kevin Spacey",
+        "voice": "Hopper",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTUwMjQ3NDA0Ml5BMl5BanBnXkFtZTcwMjU2MDk3OQ@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Julia Louis-Dreyfus",
+        "voice": "Atta",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTYzMDM2MTg2Nl5BMl5BanBnXkFtZTcwODQ0OTA1Mg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Hayden Panettiere",
+        "voice": "Dot",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BOTY2OTI1NzA0NV5BMl5BanBnXkFtZTcwOTczMTA2Mw@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Phyllis Diller",
+        "voice": "Queen",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTI3ODUwMTE3MV5BMl5BanBnXkFtZTYwMDU4Nzc4._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Richard Kind",
+        "voice": "Molt",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMjEwMzgyNTI0MF5BMl5BanBnXkFtZTYwMTQ0OTI4._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "David Hyde Pierce",
+        "voice": "Slim",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTMxODU1Mjg2MF5BMl5BanBnXkFtZTcwOTMzMjAzNQ@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Joe Ranft",
+        "voice": "Heimlich",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BNDY2NDY2ODM5N15BMl5BanBnXkFtZTcwMzU4MDM5OA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Denis Leary",
+        "voice": "Francis",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTk2MzM4NTA5OV5BMl5BanBnXkFtZTcwMTAxNjA3Mg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "actor": "Jonathan Harris",
+        "voice": "Manny",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTgzMzY2MzY0N15BMl5BanBnXkFtZTgwNjA2ODI0MjE@._V1_UY44_CR13,0,32,44_AL_.jpg"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Lasseter",
+        "birthdate": "January 12, 1957",
+        "bio": "John Lasseter was born on January 12, 1957 in Hollywood, Los Angeles, California, USA as John Alan Lasseter. He is a producer and director, known for Toy Story (1995), Cars (2006) and Toy Story 2 (1999). He is married to Nancy Lasseter. They have five children.",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTQ5NTczNjE5MV5BMl5BanBnXkFtZTcwMTA1MTQ3Mg@@._V1_UY98_CR4,0,67,98_AL_.jpg"
+      },
+      {
+        "name": "Andrew Stanton",
+        "birthdate": "December 3, 1965",
+        "bio": "Oscar-winning filmmaker Andrew Stanton was raised in Rockport, Massachusetts. He was educated at The California Institute of the Arts (or 'CalArts') in Los Angeles, where he studied character animation. After graduation, Stanton began working as a writer on the TV series Mighty Mouse, the New Adventures (1987). In 1990, he became only the second animator and ninth employee to join Pixar Animation Studios.Stanton went on to help establish Pixar as one of the world's leading animation studios. He was designer and writer on Toy Story (1995), for which he was nominated for an Oscar. He went on to write and direct such worldwide hits as A Bug's Life (1998), Finding Nemo (2003) and WALL·E (2008), the latter two both winning Oscars for Best Animated Feature. Stanton also dabbles in voice work, perhaps most memorably as Crush, the laid back turtle, in Finding Nemo (2003).",
+        "bioPhoto": "http://ia.media-imdb.com/images/M/MV5BMTY0MTIyMzAzNF5BMl5BanBnXkFtZTcwNDUzNjQ0Nw@@._V1_UY98_CR6,0,67,98_AL_.jpg"
+      }
+    ],
+    "overview": {
+      "description": "A misfit ant, looking for 'warriors' to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+      "metascore": 77,
+      "rating": "G",
+      "releaseDate": "November 25, 1998"
+    },
+    "imageUrl": "http://ia.media-imdb.com/images/M/MV5BMTI5NTc1NjU2NF5BMl5BanBnXkFtZTcwNzkyNDAyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg"
   },
   {
     "id": 2,

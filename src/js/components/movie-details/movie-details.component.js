@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 function MovieDetailsController() {
   var ctrl = this
@@ -22,17 +22,4 @@ app.component("movieDetails", {
     { path: "/director", component: "movieDirector", name: "Director" }
   ],
   controller: MovieDetailsController
-});
-
-
-app.component("movieOverview", {
-  template: "This is the overview"
-});
-
-app.component("movieCast", {
-  template: "This is info about the cast"
-});
-
-app.component("movieDirector", {
-  template: "This contains info about the director"
 });
