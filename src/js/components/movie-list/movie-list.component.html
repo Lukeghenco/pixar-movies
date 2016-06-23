@@ -23,9 +23,13 @@
           <span class="glyphicon glyphicon-minus"></span>
         </button>
 
-        <a class="btn btn-default" ng-link="['Details', { id: movie.id }]">
+        <!-- additional way -->
+        <!-- <a ng-link="['Details', { id: movie.id }]"></a> -->
+        <button
+          class="btn btn-default"
+          ng-click="$ctrl.goTo(movie.id)">
           <span class="glyphicon glyphicon-zoom-in"></span>
-        </a>
+        </button>
       </td>
     </tr>
   </table>

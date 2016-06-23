@@ -21,6 +21,10 @@ function MovieListController($http) {
     });
   };
 
+  ctrl.goTo = function(id) {
+    ctrl.$router.navigate(["Details", { id: id }, "Overview"]);
+  };
+
   ctrl.upRating = function(movie) {
     if(movie.rating < 5) {
       movie.rating += 1;
@@ -37,5 +41,8 @@ function MovieListController($http) {
 
 app.component('movieList', {
   templateUrl: "/src/js/components/movie-list/movie-list.component.html",
-  controller: MovieListController
+  controller: MovieListController,
+  bindings: {
+    "$router": "<"
+  }
 });
