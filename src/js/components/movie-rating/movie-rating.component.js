@@ -1,7 +1,5 @@
 'use strict';
 
-var app = angular.module('pixarMovies');
-
 function MovieRatingController() {
 
   var ctrl = this;

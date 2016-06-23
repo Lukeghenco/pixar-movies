@@ -1,6 +1,6 @@
 'use strict';
 
-var app = angular.module('pixarMovies', []);
+// var app = angular.module('pixarMovies', []);
 
 function fetchMovies($http){
   return $http.get("data/movies.json")

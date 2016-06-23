@@ -1,4 +1,5 @@
 describe("component: movieRating", function() {
+
   beforeEach(module('pixarMovies'));
 
   var movieRating
@@ -13,4 +14,5 @@ describe("component: movieRating", function() {
     expect(movieRating).toBeDefined();
     expect(movieRating.$onInit).toBeDefined();
   });
+  
 });

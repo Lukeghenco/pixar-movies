@@ -1,5 +1,6 @@
 
 'use strict';
 
-angular
-  .module('pixarMovies', []);
+var app = angular.module("pixarMovies", ["ngComponentRouter"]);
+
+app.value("$routerRootComponent", "movieApp");
