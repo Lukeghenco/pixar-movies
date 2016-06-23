@@ -39,12 +39,3 @@ app.component('movieList', {
   templateUrl: "/src/js/components/movie-list/movie-list.component.html",
   controller: MovieListController
 });
-
-
-// $onInit after instantianting of the component
-
-// $onDestroy for when discarding a component
-
-// $on Changes when a componet is updated
-
-// $postLink for updating a directive like object
